@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "net_flow": 0.0,
   "by_issuer": {},
   "cumulative_7d": 0.0,
   "bias": "NEUTRAL",
-  "fetched_at": "2026-06-30T00:03:15.642759+00:00",
+  "fetched_at": "2026-07-01T00:04:35.106397+00:00",
   "source": "unavailable \u2014 Cloudflare blocked all fetch attempts",
   "error": true
 }
