@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-07-02",
+    "net_flow": 0.0,
+    "by_issuer": {},
+    "cumulative_7d": 0.0,
+    "bias": "NEUTRAL",
+    "fetched_at": "2026-07-02T00:06:05.768277+00:00",
+    "source": "unavailable \u2014 Cloudflare blocked all fetch attempts",
+    "error": true
+  },
+  {
     "date": "2026-07-01",
     "net_flow": 0.0,
     "by_issuer": {},
